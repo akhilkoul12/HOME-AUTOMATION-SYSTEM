@@ -10,7 +10,7 @@ The objectives needed to be achieved were as follows:
  • Remote Access 
 •	Automated Control 
 •	Better Security
-# Block diagram of the projest\
+# Block diagram of the project
 ![image](https://github.com/akhilkoul12/HOME-AUTOMATION-SYSTEM/assets/134935521/d894d8b4-ce01-441c-90fe-8003bde1d81b)
 # circuit diagrams
 
