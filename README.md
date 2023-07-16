@@ -17,4 +17,8 @@ The objectives needed to be achieved were as follows:
 ![image](https://github.com/akhilkoul12/HOME-AUTOMATION-SYSTEM/assets/134935521/5e7c9ba6-3e14-4e8f-8d1f-a07e4f3166a9)
 ![image](https://github.com/akhilkoul12/HOME-AUTOMATION-SYSTEM/assets/134935521/89eb69a7-ba38-43b0-a673-0e7f8ac94643)
 
+# Blynk interface
+![image](https://github.com/akhilkoul12/HOME-AUTOMATION-SYSTEM/assets/134935521/7d4b2d85-3f4e-4152-8b3a-2b6cb7f34392)
+![image](https://github.com/akhilkoul12/HOME-AUTOMATION-SYSTEM/assets/134935521/f93c8b5c-7a96-44f1-af87-17cf8061672c)
+
 
