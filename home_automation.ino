@@ -1,8 +1,5 @@
-/*sketch for IoT based home automation system using esp32 controller, PIR sensor and remote control using Blynk app
-   created by Paresh Kalsotra*/
+//home automation sketch
 
-//________________________________________________________________//
-//including necessary libraries
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
@@ -54,8 +51,6 @@ void setup()
 
 void loop()
 {  Blynk.run();
- 
- //reading sensor data
  val = digitalRead(sensor);   
   if (val == HIGH) {    
   //trigerring physical pin   
